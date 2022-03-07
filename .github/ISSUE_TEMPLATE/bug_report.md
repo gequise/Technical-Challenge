@@ -12,27 +12,30 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Go to Email
+2. Observe
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Please see the attached screenshot.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Desktop  Clients (please complete the following information):**
+ - OS: [Windows 10]
+- App; Office 365
+
+
+**Mobile Clients (please complete the following information):**
+ - Device: [e.g. iPhone]
+ - App: Gmail
+
+
+**Web-Based Clients (please complete the following information):**
+ - Browser [Chrome]
+ - App: Gmail
+
 
 **Additional context**
 Add any other context about the problem here.
